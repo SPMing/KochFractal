@@ -5,13 +5,13 @@
 [![Organization](https://img.shields.io/badge/Org-TralahTek-blue.svg)](https://github.com/TralahTek)
 [![Views](http://hits.dwyl.io/TralahM/KochFractal.svg)](http://dwyl.io/TralahM/KochFractal)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square)](https://github.com/TralahM/KochFractal/pull/)
-[![GitHub pull-requests](https://img.shields.io/badge/Issues-pr-red.svg?style=flat-square)](https://github.com/TralahM/KochFractal/pull/)
+[![GitHub pull-requests](https://img.shields.io/badge/Issues-Pr-red.svg?style=flat-square)](https://github.com/TralahM/KochFractal/pull/)
 [![Language](https://img.shields.io/badge/Language-cpp-f34b7d.svg)](https://github.com/TralahM)
 
 # KochFractal.
 Koch Fractal is a simple algorithm which produces snowflake from a triangle. The concept behind this, is to break a line into two while leaving one third of the space between them where we fit two more lines forming an equilateral triangle without the base. This process is, then repeated to all lines again and again!
 
-![KochDemo](http://www.cplusplus.com/articles/iE86b7Xj/kfrac.png)
+[![KochDemo](http://www.cplusplus.com/articles/iE86b7Xj/kfrac.png)](http://www.cplusplus.com/articles/iE86b7Xj/kfrac.png)
 
 [![TralahTek](https://img.shields.io/badge/Organization-TralahTek-black.svg?style=for-the-badge)](https://github.com/TralahTek)
 [![TralahM](https://img.shields.io/badge/Engineer-TralahM-blue.svg?style=for-the-badge)](https://github.com/TralahM)
