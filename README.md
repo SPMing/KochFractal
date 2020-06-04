@@ -21,7 +21,22 @@ Koch Fractal is a simple algorithm which produces snowflake from a triangle. The
 
 [![Documentation](https://img.shields.io/badge/Docs-KochFractal-blue.svg?style=for-the-badge)](https://github.com/TralahM/KochFractal)
 
-# How to Install
+# Building the Program
+
+```
+# In terminal do:
+$  git clone https://github.com/TralahM/KochFractal.git
+$  cd KochFractal
+```
+
+## Using Make
+
+```bash
+# In terminal do:
+$  make
+```
+## Manually
+
 ```bash
 # In terminal do:
 $ g++ main.cpp -o kochfractal -lSDL2
